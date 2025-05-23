@@ -1,6 +1,6 @@
 /* Global styles */
 body {
-    font-family: 'Outfit';
+    font-family: 'Outfit', sans-serif;
     font-weight: 400;
     font-size: 15px;
     background-color: hsl(212, 45%, 89%);
@@ -29,11 +29,13 @@ body {
     font-weight: 700;
     color: hsl(218, 44%, 22%);
     margin-top: 15px;
+    padding: 0 20px;
 }
 
 .card p {
     color: hsl(216, 15%, 48%);
     margin-top: 10px;
+    padding: 0 20px;
 }
 
 @media (max-width: 375px) {
@@ -44,7 +46,7 @@ body {
 }
 
 .attribution {
-    font-size: 8px;
+    font-size: 9px;
     text-align: center;
 }
 .attribution a {
