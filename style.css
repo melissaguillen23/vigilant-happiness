@@ -1,6 +1,6 @@
 /* Global styles */
 body {
-    font-family: 'Outfit', sans-serif;
+    font-family: 'Outfit';
     font-weight: 400;
     font-size: 15px;
     background-color: hsl(212, 45%, 89%);
@@ -26,6 +26,7 @@ body {
 
 .card h1 {
     font-size: 22px;
+    font-weight: 700;
     color: hsl(218, 44%, 22%);
     margin-top: 15px;
 }
@@ -43,7 +44,7 @@ body {
 }
 
 .attribution {
-    font-size: 11px;
+    font-size: 8px;
     text-align: center;
 }
 .attribution a {
